@@ -4,15 +4,15 @@
 <!---
 --->
 <h3 align="center">
-	<a href="https://md-shadab-azam-ansari.vercel.app/">Hi, I'm Shadab Azam Ansari!</a>
+	<a href="https://github.com/Piyush69-XD">Hi, I'm Piyush!</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3> <a href="https://github.com/sazamansari/sazamansari/"> </a>
+</h3> <a href="https://github.com/Piyush69-XD/Piyush69-XD/"> </a>
 <br/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Open%20Source%20|%20DevOps%20|%20Web+Development%20Enthusiastic;Always%20learning%20new%20things&center=true&width=640&height=45&color=2E9DA8"></a>
 </p>
 ---
-<!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm Shadab azam ansari</h1> -->
+<!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm Piyush</h1> -->
 <h3>I'm a Software Engineer.</h3>
 * 🎓 B.Tech in Computer Science, Galgotias University (2018–2022)
 * 👀 Passionate about open source and programming (Node.JS, Python, JavaScript)
@@ -22,8 +22,8 @@
 * 📚 Dedicated to continuous learning and growth
 ---
 <!-- <h2>📫 How to reach me:</h2> <br>
-<a href="mailto:ansarimomshadabazam@gmail.com" target="_blank"><img src="images/official-gmail-icon.svg" alt="Gmail Logo" width="50"></a>&emsp;
-<a href="https://www.linkedin.com/in/sazamansari/" target="_blank"><img src="images/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50"></a>&emsp; 
+<a href="mailto:your-email@example.com" target="_blank"><img src="images/official-gmail-icon.svg" alt="Gmail Logo" width="50"></a>&emsp;
+<a href="https://www.linkedin.com/in/Piyush69-XD/" target="_blank"><img src="images/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50"></a>&emsp; 
 <hr/> -->
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
