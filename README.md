@@ -1,47 +1,80 @@
-<hr></hr>
-<p align="center">
-  <samp>
-<!---
---->
-<h3 align="center">
-	<a href="https://github.com/Piyush69-XD">Hi, I'm Piyush!</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3> <a href="https://github.com/Piyush69-XD/Piyush69-XD/"> </a>
-<br/>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Open%20Source%20|%20DevOps%20|%20Web+Development%20Enthusiastic;Always%20learning%20new%20things&center=true&width=640&height=45&color=2E9DA8"></a>
-</p>
----
-<!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm Piyush</h1> -->
-<h3>I'm a Software Engineer.</h3>
-* 🎓 B.Tech in Computer Science, Galgotias University (2018–2022)
-* 👀 Passionate about open source and programming (Node.JS, Python, JavaScript)
-* 💬 DevOps toolkit: Docker · Kubernetes · Jenkins · GitHub Actions · Terraform · Ansible · AWS (EC2, S3, Lambda) · Prometheus · Grafana
-* 💞️ Seeking collaboration on open-source projects
-* 💡 Sharpening Java data structures & algorithms and DevOps expertise with Amazon web service.
-* 📚 Dedicated to continuous learning and growth
----
-<!-- <h2>📫 How to reach me:</h2> <br>
-<a href="mailto:your-email@example.com" target="_blank"><img src="images/official-gmail-icon.svg" alt="Gmail Logo" width="50"></a>&emsp;
-<a href="https://www.linkedin.com/in/Piyush69-XD/" target="_blank"><img src="images/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50"></a>&emsp; 
-<hr/> -->
-<h2> 🥞 Tech Stack</h2>
-<p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23264653.svg?style=for-the-badge&logo=html5&logoColor=E76F51"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23E9C46A.svg?style=for-the-badge&logo=javascript&logoColor=264653"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23E76F51.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%23264653.svg?style=for-the-badge&logo=python&logoColor=E9C46A"/>
-<img alt="C++" src="https://img.shields.io/badge/c%2B%2B-%23004482.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/c-%23283747.svg?style=for-the-badge&logo=c&logoColor=A9CCE3"/>
-<img alt="Github" src="https://img.shields.io/badge/github-%23264653.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-2A9D8F.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<!-- <img alt="Figma" src="https://img.shields.io/badge/figma-%23ffd2ce.svg?style=for-the-badge&logo=figma&logoColor=140200" /> -->
-<img alt="Canva" src="https://img.shields.io/badge/Canva-F4A261.svg?style=for-the-badge&logo=canva&logoColor=264653"/>
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23E76F51.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<!-- <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" /> -->
-  </p>
-<br>
-	  
-<!-- ## Stats 📈 -->
+<div align="center">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
+
+# Hi there, I'm Piyush 👋
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2A9D8F&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;Game+Development+Enthusiast;Building+Cool+Projects+with+JavaScript;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
+
+<a href="https://github.com/Piyush69-XD"><img src="https://img.shields.io/badge/GitHub-Piyush69--XD-264653?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 </div>
-[![Piyush69-XD's GitHub stats](https://stats.quine.sh/Piyush69-XD/github)](https://quine.sh/profile/Piyush69-XD)
+
+<hr>
+
+### 🚀 About Me
+
+- 🎓 Student, currently sharpening my skills in **Frontend Web Development**
+- 🕹️ Learning **Game Development** through a structured course at **Techademy**
+- 🌱 Building real-world projects — including a **Recipe Finder web app** themed around Indian & vegetarian cuisine
+- 💡 Passionate about clean UI, smooth UX, and turning ideas into working products
+- 🍛 Big fan of Indian culture and cuisine — it often finds its way into my project themes!
+- 📫 Always open to collaborating on interesting frontend or game dev projects
+
+<hr>
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-264653.svg?style=for-the-badge&logo=html5&logoColor=E76F51"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-2A9D8F.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-E9C46A.svg?style=for-the-badge&logo=javascript&logoColor=264653"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-E76F51.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-264653.svg?style=for-the-badge&logo=python&logoColor=E9C46A"/>
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-004482.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/C-283747.svg?style=for-the-badge&logo=c&logoColor=A9CCE3"/>
+</p>
+
+<p align="center">
+<img alt="Git" src="https://img.shields.io/badge/Git-E76F51.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-264653.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-2A9D8F.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Unity" src="https://img.shields.io/badge/Unity-F4A261.svg?style=for-the-badge&logo=unity&logoColor=264653"/>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-E76F51.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Canva" src="https://img.shields.io/badge/Canva-F4A261.svg?style=for-the-badge&logo=canva&logoColor=264653"/>
+</p>
+
+<hr>
+
+### 📌 Featured Project
+
+<p align="center">
+<a href="https://github.com/Piyush69-XD">
+  <img src="https://img.shields.io/badge/🍛_Swad_Apno_Ka-Taste_of_India_Recipe_Finder-2A9D8F?style=for-the-badge" />
+</a>
+</p>
+
+<p align="center">
+A frontend Recipe Finder web app themed around Indian & vegetarian cuisine, built with <b>HTML, CSS & JavaScript</b>, powered by <b>TheMealDB API</b>, with cuisine-based navigation, dish cards, and a favourites system using <b>localStorage</b>.
+</p>
+
+<hr>
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Piyush69-XD&show_icons=true&theme=transparent&title_color=2A9D8F&icon_color=E76F51&text_color=264653&border_color=264653&hide_border=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush69-XD&layout=compact&theme=transparent&title_color=2A9D8F&text_color=264653&border_color=264653&hide_border=false" width="38%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush69-XD&theme=transparent&ring=2A9D8F&fire=E76F51&currStreakLabel=264653&border=264653" width="70%" />
+</p>
+
+<hr>
+
+<p align="center">
+<a href="https://github.com/Piyush69-XD"><img src="https://img.shields.io/badge/Follow-Piyush69--XD-2A9D8F?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repositories!</i></p>
