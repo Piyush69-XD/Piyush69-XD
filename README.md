@@ -46,20 +46,6 @@
 
 <hr>
 
-### 📌 Featured Project
-
-<p align="center">
-<a href="https://github.com/Piyush69-XD">
-  <img src="https://img.shields.io/badge/🍛_Swad_Apno_Ka-Taste_of_India_Recipe_Finder-2A9D8F?style=for-the-badge" />
-</a>
-</p>
-
-<p align="center">
-A frontend Recipe Finder web app themed around Indian & vegetarian cuisine, built with <b>HTML, CSS & JavaScript</b>, powered by <b>TheMealDB API</b>, with cuisine-based navigation, dish cards, and a favourites system using <b>localStorage</b>.
-</p>
-
-<hr>
-
 ### 📊 GitHub Stats
 
 <p align="center">
