@@ -48,6 +48,13 @@
 
 ### 📊 GitHub Stats
 
+<!-- These badges use shields.io — extremely reliable, will always show -->
+<p align="center">
+<img alt="Followers" src="https://img.shields.io/github/followers/Piyush69-XD?style=for-the-badge&color=2A9D8F&labelColor=264653" />
+<img alt="Public Repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPiyush69-XD&label=Repos&query=%24.public_repos&color=E76F51&style=for-the-badge&labelColor=264653" />
+</p>
+
+<!-- Detailed visual stat cards — reliable once self-hosted on your own Vercel deployment -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Piyush69-XD&show_icons=true&theme=transparent&title_color=2A9D8F&icon_color=E76F51&text_color=264653&border_color=264653&hide_border=false" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush69-XD&layout=compact&theme=transparent&title_color=2A9D8F&text_color=264653&border_color=264653&hide_border=false" width="38%" />
