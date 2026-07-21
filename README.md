@@ -4,7 +4,7 @@
 
 # Hi there, I'm Piyush 👋
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2A9D8F&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;Game+Development+Enthusiast;Building+Cool+Projects+with+JavaScript;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2A9D8F&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;Game+Development+Enthusiast;Building+Cool+Projects+with+JavaScript;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
 
 <a href="https://github.com/Piyush69-XD"><img src="https://img.shields.io/badge/GitHub-Piyush69--XD-264653?style=for-the-badge&logo=github&logoColor=white" /></a>
 
